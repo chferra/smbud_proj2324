@@ -1,2 +1,0 @@
-starting dataset:	https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies
-used dataset: 		https://drive.google.com/file/d/102BtIvMcfkgwOYSQn5QqQt-0Py9FMe3h/view?usp=drive_link
